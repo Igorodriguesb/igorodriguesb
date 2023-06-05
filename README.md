@@ -9,7 +9,7 @@ Aqui em baixo é um resumo das linguagens que utilizo e meus contatos para que p
 <div>
   <a href="https://github.com/Igorodriguesb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorodriguesb&show_icons=true&theme=radical&include_all_commits=true&count_privete=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorodrigues&hide_progress=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorodrigues&hide_progress=true"/>
 </div>
 
   <div>
@@ -20,4 +20,4 @@ Aqui em baixo é um resumo das linguagens que utilizo e meus contatos para que p
 </div>
 
   
-![Snake animation](https://github.com/igorodriguesb/igorodriguesb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Igorodriguesb/igorodriguesb/blob/output/github-contribution-grid-snake.svg)
