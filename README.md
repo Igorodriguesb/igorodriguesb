@@ -3,29 +3,26 @@
 - 🔭 Estou migrando de área para TI
 - 🌱 Sou formado em Biotecnologia e amo a área de bioinformática
 - 😄 Pronouns: Ele / Dele
+- 🤓Possuo um portifólio de PowerBi voltados para a análise de dados. [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/portiflioigor-powerbi?usp=sharing)
 
-Aqui em baixo é um resumo das linguagens que utilizo e meus contatos para que possamos colaborar. 😉
+## Tecnologias que uso no meu dia
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+<div style="display: inline_block"><br/>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    <img align="center" alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"> 
+</div><br/>
 
+![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorodriguesb&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorodriguesb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+### Meus contatos para que possamos colaborar. 😉
 
-<div>
-  <a href="https://github.com/Igorodriguesb">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Igorodriguesb&show_icons=true&theme=radical&include_all_commits=true&count_privete=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorodrigues&hide_progress=true"/>
-</div>
-  
- <div>
-    <a href = "mailto:igor.baptista71@gmail.com"><img src="https://img.shields.io/badge/-Email-%238a90c7?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.instagram.com/igorodriguesb/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  	<a href="https://www.linkedin.com/in/igor-rodrigues-35743bba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  	<a href="https://github.com/Igorodriguesb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorodriguesb/?next=%2F)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-rodrigues-35743bba)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.baptista71@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
