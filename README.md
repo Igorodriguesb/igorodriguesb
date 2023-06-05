@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor Rodrigues 👋
 
-- 🔭 Estou migrando de área para TI
-- 🌱 Sou formado em Biotecnologia e amo a área de bioinformática
+- 🔭 Estou cursando Análise e desenvolvimento de sistema
+- 🌱 Cientista de dados pela DNC ()
 - 😄 Pronouns: Ele / Dele
 - 🤓Possuo um portifólio de PowerBi voltados para a análise de dados. [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/portiflioigor-powerbi?usp=sharing)
 
