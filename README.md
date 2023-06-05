@@ -26,3 +26,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.baptista71@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
+<div align="center">
+
+  ![Snake animation](https://github.com/igorodriguesb/igorodriguesb/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
