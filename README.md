@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor Rodrigues 👋
 
 - 🔭 Estou cursando Análise e desenvolvimento de sistema
-- 🌱 Cientista de dados pela DNC ()
+- 🌱 Cientista de dados pela DNC
 - 😄 Pronouns: Ele / Dele
 - 🤓Possuo um portifólio de PowerBi voltados para a análise de dados. [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/portiflioigor-powerbi?usp=sharing)
 
@@ -26,8 +26,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.baptista71@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-<div align="center">
+<div>
 
-  ![Snake animation](https://github.com/igorodriguesb/igorodriguesb/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
