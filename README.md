@@ -30,4 +30,4 @@ Aqui em baixo é um resumo das linguagens que utilizo e meus contatos para que p
 </div>
 
   
-![Snake animation](https://github.com/Igorodriguesb/igorodriguesb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/workspaces/igorodriguesb/blob/output/github-contribution-grid-snake.svg)
