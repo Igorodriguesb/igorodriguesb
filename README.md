@@ -2,7 +2,7 @@
 
 - 🔭 Estou cursando Análise e desenvolvimento de sistema
 - 🌱 Cientista de dados pela DNC
-- 😄 Pronouns: Ele / Dele
+- 😄 Pronomes: Ele / Dele
 - 🤓Possuo um portifólio de PowerBi voltados para a análise de dados. [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/portiflioigor-powerbi?usp=sharing)
 
 ## Tecnologias que uso no meu dia
